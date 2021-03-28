@@ -1,0 +1,4 @@
+build/
+
+jest.config.js 
+jest.setup.js

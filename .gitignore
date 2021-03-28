@@ -1,0 +1,26 @@
+.env
+
+.idea/
+.vscode/
+.DS_Store
+*~
+.*~
+*.kate-swp
+src/**/.DS_Store
+
+node_modules/
+build/
+tmp/
+temp/
+
+src/**/*.js
+src/**/*.js.map
+
+package-lock.json
+#yarn.lock
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-error.log
